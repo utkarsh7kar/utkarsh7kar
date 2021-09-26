@@ -8,6 +8,14 @@
 
 My name is Utkarsh Pandya 😀 and I am a final year 🎓 CSE student at Nirma University 🏛. . I am always energetic and eager to learn new skills 💡. I like to work with maximum potential in a challenging and dynamic environment ✨, with an opportunity of working with a diverse group of people and enhancing my professional💻 skills with learning and experience for career growth 🕸️.
 
+### My Information:
+
+- 🛠 &nbsp; I’m currently working on Web Development and Blockchain.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/utkarsh7kar).
+- 📫 &nbsp; How to reach me: utkarshpandya75@gmail.com.
+- 📝 &nbsp; Review my Resume here  [Resume](https://bit.ly/3s3dCwU).
+
 ### Languages and Tools:
 
 Programming Languages: <br/><br/>
