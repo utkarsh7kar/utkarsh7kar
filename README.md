@@ -38,3 +38,22 @@ Other Tools and Technologies: <br/><br/>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"></code>
+
+
+### Projects and Stats:
+
+<div align="center">	
+  <b>⚡Github Stats</b>
+  <br/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarsh7kar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh7kar&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</center>
+
+
+#
+<div align="center">
+Like My Work?
+<br/>
+<a href="https://www.buymeacoffee.com/utkarshpandya7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+</div>
