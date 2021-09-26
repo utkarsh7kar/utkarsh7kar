@@ -47,12 +47,13 @@ Other Tools and Technologies: <br/><br/>
   <br/><br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarsh7kar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh7kar&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</center>
+</div>
 
 
-#
+### Like My Work?
+
 <div align="center">
-Like My Work?
+  <b>I would buy a tea ☕ </b>
 <br/><br/>
 <a href="https://www.buymeacoffee.com/utkarshpandya7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
